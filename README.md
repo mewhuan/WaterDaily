@@ -4,7 +4,7 @@ WaterDaily is an iOS application for reminding users to take water. Studies said
 </br><hr>
 ### Programming Language
 Objective-C.
-</br>
+</br><hr>
 ### Procedure
 <html>
 <body>
@@ -29,6 +29,7 @@ Play as hounds at the medium level.</br>
 Play as hounds at the medium level.</br>
 <img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily5.gif" width="280" height="500"></br>
 </p>
+<hr>
 ### Author
 <a href="https://github.com/mewhuan">Dong Li</a>
 </body>
