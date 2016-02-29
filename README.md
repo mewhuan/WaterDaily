@@ -4,28 +4,30 @@ WaterDaily is an iOS application for reminding users to take water. Studies said
 </br>
 ### Programming Language
 Objective-C.
+</br>
 ### Procedure
 <html>
 <body>
+<h1>Waterbalance View
 <p>
-Play as hounds at the hardest level.</br>
+Open it, the app shows the waterbalance view at first. There are several parts int the view: the bottle view, drink water button, drink other button, undo button and change bottle button. </br>
 <img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily1.gif" width="280" height="500"></br>
 </p>
 <p>
 Play as hare at the hardest level.</br>
-<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily2.gif" width="400" height="300"></br>
+<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily2.gif" width="280" height="500"></br>
 </p>
 <p>
 Play as hounds at the medium level.</br>
-<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily3.gif" width="400" height="300"></br>
+<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily3.gif" width="280" height="500"></br>
 </p>
 <p>
 Play as hounds at the medium level.</br>
-<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily4.gif" width="400" height="300"></br>
+<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily4.gif" width="280" height="500"></br>
 </p>
 <p>
 Play as hounds at the medium level.</br>
-<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily5.gif" width="400" height="300"></br>
+<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily5.gif" width="280" height="500"></br>
 </p>
 ### Author
 <a href="https://github.com/mewhuan">Dong Li</a>
