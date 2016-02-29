@@ -25,7 +25,7 @@ In the progress view there are two parts: calandar and run chart. User can press
 </p>
 #### Preferences View
 <p>
-In the preferences view, user can set measurement(liters or ounces), daily goal, cup capacity and reminders. The reminder will send notifications to user when the app is closed.</br>
+In the preferences view, user can set measurement(liters or ounces), daily goal, cup capacity and reminders. The reminder will send notifications to user when the app is not active.</br>
 <img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily4.gif" width="280" height="500"></br>
 </p>
 <p>
