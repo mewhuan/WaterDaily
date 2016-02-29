@@ -1,6 +1,6 @@
 # WaterDaily
 ### Introduction
-WaterDaily is an iOS application for reminding users to take water. Studies said that water is the principal chenmical component for body and makes up about 60 percent of body weight. An adequate intake for men is roughly about 3 liters of total beverages a day and 2.2 liters for women. For proper intake of water, with WaterDaily, users can set their daily goal and set reminders to reach it.
+WaterDaily is an iOS application for reminding users to take water. Studies said that water is the principal chenmical component for body and makes up about 60 percent of body weight. An adequate intake for men is roughly about 3 liters of total beverages a day and 2.2 liters for women. For proper intake of water, with WaterDaily, people can set their daily goal and set reminders to reach it.
 </br><hr>
 ### Programming Language
 Objective-C.
@@ -10,7 +10,7 @@ Objective-C.
 <body>
 #### Waterbalance View
 <p>
-Open it, the app shows the waterbalance view at first. There are several parts int the view: the bottle view, drink water button, drink other button, undo button and change bottle button. </br>
+Open it, the app shows the waterbalance view at first. There are several parts int the view: the bottle view, drink water button, drink other button, undo button and change bottle button. User can press drink water and drink other buttons to take different beverages, and press undo button to cancel previous operations.</br>
 <img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily1.gif" width="280" height="500"></br>
 </p>
 <p>
