@@ -29,7 +29,7 @@ In the preferences view, user can set measurement(liters or ounces), daily goal,
 <img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily4.gif" width="280" height="500"></br>
 </p>
 <p>
-Play as hounds at the medium level.</br>
+When the percentage of water intake is less than 0(take too much alcohol maybe) or more than 100, the percentage will be shown as 0-% and 100+%. The point on the run chart will be same as 0% and 100%.</br>
 <img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily5.gif" width="280" height="500"></br>
 </p>
 <hr>
