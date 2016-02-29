@@ -21,7 +21,7 @@ Press change bottle button shows the bottles collection, user can select a prefe
 #### Progress View
 <p>
 In the progress view there are two parts: calandar and run chart. User can press the date on the calandar to get water intake percentage of that day. The run chart shows water intake information for a week, user can slide calandar to change weeks. User can also check and estimate their own water intake by the run chart.</br>
-<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily3.gif" width="280" height="500"></br>
+<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily6.gif" width="280" height="500"></br>
 </p>
 <p>
 Play as hounds at the medium level.</br>
