@@ -8,7 +8,7 @@ Objective-C.
 ### Procedure
 <html>
 <body>
-<h1>Waterbalance View
+#### Waterbalance View
 <p>
 Open it, the app shows the waterbalance view at first. There are several parts int the view: the bottle view, drink water button, drink other button, undo button and change bottle button. </br>
 <img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily1.gif" width="280" height="500"></br>
