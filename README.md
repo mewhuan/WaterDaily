@@ -9,7 +9,7 @@ Objective-C.
 <body>
 <p>
 Play as hounds at the hardest level.</br>
-<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily1.gif" width="260" height="360"></br>
+<img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily1.gif" width="200" height="390"></br>
 </p>
 <p>
 Play as hare at the hardest level.</br>
