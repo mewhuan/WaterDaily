@@ -15,7 +15,7 @@ Open it, the app shows the waterbalance view at first. There are several parts i
 </p>
 <p>
 Press drink other button will shows several beverage buttons: coffee, soda, tea, juice, milk and alcohol. Soda, tea, juice and milk will increase the proportion of water in the body. However, coffee and alcohol, will decrease the proportion of water. Especially, alcohol will decrease the water percentage by a wide margin, which makes people thirsty. </br>
-Press change bottle button shows the bottles collection, user can select a prefer bottle here. Four bottles provided, they are normal bottle, beaker, coconut juice bottle and litte girl bottle.
+Press change bottle button shows the bottles collection, user can select a prefer bottle here. Four bottles provided, they are normal bottle, beaker, coconut juice bottle and litte girl bottle.</br>
 <img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily2.gif" width="280" height="500"></br>
 </p>
 <p>
