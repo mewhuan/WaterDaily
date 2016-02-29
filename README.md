@@ -18,8 +18,9 @@ Press drink other button will shows several beverage buttons: coffee, soda, tea,
 Press change bottle button shows the bottles collection, user can select a prefer bottle here. Four bottles provided, they are normal bottle, beaker, coconut juice bottle and litte girl bottle.</br>
 <img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily2.gif" width="280" height="500"></br>
 </p>
+#### Progress View
 <p>
-Play as hounds at the medium level.</br>
+In the progress view there are two parts: calandar and run chart. User can press the date on the calandar to get water intake percentage of that day. The run chart shows water intake information for a week, user can slide calandar to change weeks. User can also check and estimate their own water intake by the run chart.</br>
 <img src="https://raw.githubusercontent.com/mewhuan/screenShots/master/waterdaily3.gif" width="280" height="500"></br>
 </p>
 <p>
